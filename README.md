@@ -1,4 +1,11 @@
-### Hi there 👋
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzarixx&show_icons=true&theme=radical) <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzarixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
+[![Code wars](https://www.codewars.com/users/uzarixx/badges/micro)](https://www.codewars.com/users/uzarixx)
+[![Discord](https://img.icons8.com/color/24/discord--v2.png)](https://discord.com/users/474874705002758145/)
+[![Telegram](https://img.icons8.com/color/24/telegram-app--v1.png)](https://t.me/uzarixx)
