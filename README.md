@@ -1,8 +1,8 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzarixx&show_icons=true&theme=radical) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzarixx&show_icons=true&bg_color=000) <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzarixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzarixx&layout=compact&bg_color=000&text_color=85807f)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
