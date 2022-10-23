@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzarixx&show_icons=true&bg_color=000) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzarixx&layout=compact&bg_color=000&text_color=85807f&hide=HTML,CSS,SCSS,JS)](https://github.com/uzarixx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzarixx&layout=compact&bg_color=000&text_color=85807f&hide=HTML,CSS,SCSS,JS,TS)](https://github.com/uzarixx/github-readme-stats)
 
 ***
 
